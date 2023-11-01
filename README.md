@@ -2,7 +2,7 @@
 
 A collection of curated RAG (Retrieval Augmented Generation) resources.
 
-What is RAG?
+## What is RAG?
 
 **R**etrieval **A**ugmented **G**eneration or RAG for short is the process of having a Large Language Model (LLM) generate text based on a given context.
 
@@ -29,12 +29,22 @@ A focus will be on papers and blog posts with code attached.
 ## Papers
 
 * May 2020 | [Original RAG paper] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | [Paper](https://arxiv.org/abs/2005.11401)
+* Dec 2022 | Precise Zero-Shot Dense Retrieval without Relevance Labels (HyDE - Hypothetical Document Embedding) | [Paper](https://arxiv.org/abs/2212.10496)
 * Oct 2023 | SELF-RAG: Learning to Retrieve, Generate and Critique through Self-reflection | [Paper](https://arxiv.org/abs/2310.11511), [GitHub](https://github.com/AkariAsai/self-rag)
 
+## Guides and Recipes
+
+* TK - Anthropic Retrieval Demo - https://github.com/anthropics/anthropic-retrieval-demo (a bunch of cool ideas around retrieval)
+* TK - Anthropic Cookbook - https://github.com/anthropics/anthropic-cookbook/tree/main 
+* TK - OpenAI Cookbook - https://github.com/openai/openai-cookbook
+* TK - Brex's Prompt Engineering Guide - https://github.com/brexhq/prompt-engineering 
+
 ## Tutorials
+
 * [Building RAG-based LLM applications for production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) - A huge comprehensive guide with a focus on production.
 
 ## Blog posts
+
 - [Contextual.ai](http://Contextual.ai) = company based on RAG, see the [launch blog post](https://contextual.ai/announcing-next-generation-language-models/)
 - [How an LLM Chatbot works: Exploring Chat with Retrieval-Augmented Generation](https://txt.cohere.com/exploring-chat-rag/) from the Cohere Blog
 

@@ -61,6 +61,10 @@ It can be implemented in ~100-200 lines of Python code (maybe less).
 
 Yes, it's a nice hack that works.
 
+**Is RAG just another form of prompt engineering?**
+
+Yes.
+
 **Which embedding model should I use?**
 
 Start with a model somewhere near the top of [Hugging Face MTEB (Massive Text Embedding) leaderboard](https://huggingface.co/spaces/mteb/leaderboard), [`sentence-transformers`](https://www.sbert.net/) is a great library too.

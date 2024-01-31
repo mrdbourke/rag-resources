@@ -42,11 +42,13 @@ A focus will be on papers and blog posts with code attached.
 ## Tutorials
 
 * [Building RAG-based LLM applications for production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) - A huge comprehensive guide with a focus on production.
+* [Build LLM application with RAG (LangChain v0.1.0)](https://brightinventions.pl/blog/build-llm-application-with-rag-langchain/) - Guide to building an LLM application in Python: utylizing LangChain, RAG and embedding.
 
 ## Blog posts
 
 - [Contextual.ai](http://Contextual.ai) = company based on RAG, see the [launch blog post](https://contextual.ai/announcing-next-generation-language-models/)
 - [How an LLM Chatbot works: Exploring Chat with Retrieval-Augmented Generation](https://txt.cohere.com/exploring-chat-rag/) from the Cohere Blog
+- [Retrieval Augmented Generation (RAG) in Machine Learning Explained](https://brightinventions.pl/blog/retrieval-augmented-generation-in-machine-learning/) from the Bright Inventions' Blog
 
 ## 10 second walkthrough
 

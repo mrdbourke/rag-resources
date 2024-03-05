@@ -48,7 +48,7 @@ A focus will be on papers and blog posts with code attached.
 - [Contextual.ai](http://Contextual.ai) = company based on RAG, see the [launch blog post](https://contextual.ai/announcing-next-generation-language-models/)
 - [How an LLM Chatbot works: Exploring Chat with Retrieval-Augmented Generation](https://txt.cohere.com/exploring-chat-rag/) from the Cohere Blog
 
-## 10 seconds walkthrough
+## 10 Seconds Walkthrough
 
 The following is a basic RAG workflow.
 

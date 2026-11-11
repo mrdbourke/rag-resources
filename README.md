@@ -31,6 +31,9 @@ A focus will be on papers and blog posts with code attached.
 * May 2020 | [Original RAG paper] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | [Paper](https://arxiv.org/abs/2005.11401)
 * Dec 2022 | Precise Zero-Shot Dense Retrieval without Relevance Labels (HyDE - Hypothetical Document Embedding) | [Paper](https://arxiv.org/abs/2212.10496)
 * Oct 2023 | SELF-RAG: Learning to Retrieve, Generate and Critique through Self-reflection | [Paper](https://arxiv.org/abs/2310.11511), [GitHub](https://github.com/AkariAsai/self-rag)
+* Feb 2025 | ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation | [Paper](https://arxiv.org/abs/2502.15543), [GitHub](https://github.com/OpenBMB/ParamMute)
+* Feb 2025 | ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance | [Paper](https://aclanthology.org/2025.emnlp-main.963/), [GitHub](https://github.com/NEUIR/ExpandR)
+* Jun 2026 | SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation | [Paper](https://arxiv.org/abs/2606.27786), [GitHub](https://github.com/OpenBMB/SPARK)
 
 ## Guides and Recipes
 
